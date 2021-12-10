@@ -1,0 +1,16 @@
+{
+  "extra_cmdline": {
+    "vid": "0x090C",
+    "pid": "0x2000",
+    "sn": "19B0PDN786101",
+    "mac1": "001132C10ADD",
+    "mac2": "001132C5B350",
+    "mac3": "001132C5B351",
+    "mac4": "001132C5B352",
+    "netif_num": "4"
+  },
+"synoinfo": {
+    "maxlanport": "4"
+},
+    "ramdisk_copy": {}
+}
