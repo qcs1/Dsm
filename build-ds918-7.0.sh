@@ -7,7 +7,7 @@ apt-get update && apt-get install --yes --no-install-recommends ca-certificates 
 cd /root && rm -rf dsm && mkdir dsm && cd ./dsm
 
 # 下载 redpill
-git clone https://github.com/RedPill-TTG/redpill-lkm.git
+git clone https://github.com/tossp/redpill-tool-chain
 git clone https://github.com/RedPill-TTG/redpill-load.git
 
 # 下载群晖 toolkit
